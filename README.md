@@ -21,6 +21,10 @@ Built to showcase Brand collections in an elegant way.
 ## 📸 Preview
 ![BannerX Preview](./assets/img.jpg)  
 
+## 🎥 Mobile View Demo
+![BannerX Demo](./assets/demo.gif)
+
+
 ---
 
 ## 📦 Installation
